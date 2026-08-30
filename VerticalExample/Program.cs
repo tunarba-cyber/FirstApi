@@ -3,6 +3,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 using VerticalExample.Data;
+using VerticalExample.Features.Commands.Categories;
 using VerticalExample.Features.Commands.Products;
 using VerticatExample.Data;
 
@@ -42,5 +43,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapProductEndpoints();
+app.MapCategoryEndpoints();
 
 app.Run();

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using VerticalExample.Data.Entities;
 using VerticalExample.Models;
 
 namespace VerticatExample.Data
@@ -6,6 +7,7 @@ namespace VerticatExample.Data
     public interface IAppDbContext
     {
         DbSet<Product> Products { get; set; }
+        DbSet<Category> Categories { get; set; }
 
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     }
