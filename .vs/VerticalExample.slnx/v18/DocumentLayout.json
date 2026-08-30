@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproductbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproductbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproductbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproductbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproductbyid\\getproductbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproductbyid\\getproductbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\constants\\sourceconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\constants\\sourceconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\deleteproduct\\deleteproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\deleteproduct\\deleteproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\updateproduct\\updateproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproducts\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproducts\\getallproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproducts\\getallproductsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproducts\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproducts\\getproductitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproducts\\getproductitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\commands\\products\\updateproduct\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\commands\\products\\updateproduct\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\features\\queries\\product\\getproductbyid\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\features\\queries\\product\\getproductbyid\\getproductbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\data\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\data\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|c:\\users\\pc\\source\\repos\\verticalexample\\verticalexample\\verticalexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC8A11A1-BE03-7B04-1746-90B4CEF949A9}|VerticalExample\\VerticalExample.csproj|solutionrelative:verticalexample\\verticalexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Models\\Category.cs",
+              "RelativeToolTip": "VerticalExample\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T21:09:09.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SourceConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Constants\\SourceConstants.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Constants\\SourceConstants.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Constants\\SourceConstants.cs",
+              "RelativeToolTip": "VerticalExample\\Constants\\SourceConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:56:16.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductsEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetProductsEndpoint.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetProductsEndpoint.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetProductsEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:54:46.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProductByIdEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdEndpoint.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdEndpoint.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:54:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:42:05.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:01:52.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:53:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:52:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\ProductEndpoints.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\ProductEndpoints.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:45:19.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T20:39:36.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:10:51.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "VerticalExample\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:36:27.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T12:56:01.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:11:45.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Models\\Product.cs",
+              "RelativeToolTip": "VerticalExample\\Models\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:34:30.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Program.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Program.cs",
+              "RelativeToolTip": "VerticalExample\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:28:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:56:20.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:58:49.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\DeleteProduct\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T12:55:22.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T11:14:38.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllProductsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsResponse.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsResponse.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsResponse.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T11:12:53.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetAllProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T11:11:24.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetProductItemResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetProductItemResponse.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetProductItemResponse.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetProductItemResponse.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProducts\\GetProductItemResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T12:43:41.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\ProductRequest.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Commands\\Products\\UpdateProduct\\ProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T10:58:53.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetProductByIdResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdResponse.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdResponse.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdResponse.cs",
+              "RelativeToolTip": "VerticalExample\\Features\\Queries\\Product\\GetProductById\\GetProductByIdResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:08:01.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\appsettings.json",
+              "RelativeDocumentMoniker": "VerticalExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\appsettings.json",
+              "RelativeToolTip": "VerticalExample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-27T11:32:57.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Data\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Data\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Data\\IAppDbContext.cs",
+              "RelativeToolTip": "VerticalExample\\Data\\IAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:26:44.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "VerticalExample\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "VerticalExample\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:24:40.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VerticalExample.csproj",
+              "DocumentMoniker": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\VerticalExample.csproj",
+              "RelativeDocumentMoniker": "VerticalExample\\VerticalExample.csproj",
+              "ToolTip": "C:\\Users\\Pc\\source\\repos\\VerticalExample\\VerticalExample\\VerticalExample.csproj",
+              "RelativeToolTip": "VerticalExample\\VerticalExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T11:23:10.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
